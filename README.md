@@ -58,7 +58,7 @@ tic-tac-toe-minimax/
 1 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/arkgupta17/Tic-Tac-Toe-with-Unbeatable-AI-Minimax-Algorithm-.git
 ```
 
 2. Navigate to the project directory:
